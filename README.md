@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📝 I regularly write articles on [https://besaif.github.io/theblog/](https://besaif.github.io/theblog/)
+- 📝 I write articles on [https://besaif.github.io/theblog/](https://besaif.github.io/theblog/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
