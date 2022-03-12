@@ -1,5 +1,5 @@
 <h1 align="center">Saif, here.</h1>
-<h3 align="center">got bored; started developing an app.</h3>
+<h3 align="center">got bored; started developing apps.</h3>
 
 - 📝 I write articles on [https://besaif.github.io/theblog/](https://besaif.github.io/theblog/)
 
