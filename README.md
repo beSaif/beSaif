@@ -1,9 +1,9 @@
-<h1 align="center">Saif here.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Saif, here.</h1>
+<h3 align="center">got bored; started developing an app.</h3>
 
 - 📝 I write articles on [https://besaif.github.io/theblog/](https://besaif.github.io/theblog/)
 
-//### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
